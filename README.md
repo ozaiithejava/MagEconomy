@@ -113,6 +113,9 @@ Geliştiriciler için genişletilebilir `MagEconomyAPI`, `MagEconomyProvider` ve
 magEconomy/
 ├── config/
 ├── economy/
+├── command/
+├── listeners/
+├── API/
 │   ├── models/
 │   ├── services/
 │   └── daos/
