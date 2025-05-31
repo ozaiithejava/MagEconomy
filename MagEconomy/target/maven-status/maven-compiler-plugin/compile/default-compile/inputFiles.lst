@@ -1,0 +1,15 @@
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\API\events\MagEconomyEvent.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\API\events\MoneyDepositEvent.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\API\events\MoneyTransferEvent.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\API\events\MoneyWithdrawEvent.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\API\MagEconomyAPI.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\API\MagEconomyProvider.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\command\EconomyCommand.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\config\ConfigManager.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\database\DatabaseManager.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\economy\daos\PlayerEconomyDao.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\economy\Economy.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\economy\models\PlayerEconomy.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\economy\services\PlayerEconomyService.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\listeners\PlayerAccountChecker.java
+C:\Users\ozaii\Desktop\MagEconomy\src\main\java\org\ozaii\magEconomy\MagEconomy.java

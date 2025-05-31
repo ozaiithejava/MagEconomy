@@ -1,0 +1,16 @@
+org\ozaii\magEconomy\economy\Economy.class
+org\ozaii\magEconomy\API\events\MagEconomyEvent.class
+org\ozaii\magEconomy\economy\services\PlayerEconomyService.class
+org\ozaii\magEconomy\MagEconomy.class
+org\ozaii\magEconomy\command\EconomyCommand.class
+org\ozaii\magEconomy\listeners\PlayerAccountChecker.class
+org\ozaii\magEconomy\API\events\MoneyTransferEvent.class
+org\ozaii\magEconomy\config\ConfigManager.class
+org\ozaii\magEconomy\API\events\MoneyDepositEvent.class
+org\ozaii\magEconomy\API\MagEconomyProvider.class
+org\ozaii\magEconomy\database\DatabaseManager$DatabaseType.class
+org\ozaii\magEconomy\API\events\MoneyWithdrawEvent.class
+org\ozaii\magEconomy\API\MagEconomyAPI.class
+org\ozaii\magEconomy\economy\models\PlayerEconomy.class
+org\ozaii\magEconomy\economy\daos\PlayerEconomyDao.class
+org\ozaii\magEconomy\database\DatabaseManager.class
